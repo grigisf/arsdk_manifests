@@ -24,7 +24,7 @@
   <project name="libARNetworkAL" path="packages/libARNetworkAL" revision="590a3d26e2af7304625b5cc46961c23d2a9d522a"/>
   <project name="libARSAL" path="packages/libARSAL" revision="ce4fcc572c644fbd3df4d8b2c856966a15040213"/>
   <project name="libARStream" path="packages/libARStream" revision="4974411b06ec6526df5fb4ea28bcba632167614c"/>
-  <project name="libARStream2" path="packages/libARStream2" revision="3f67071c2e3a864ce26fcd6f86240435ca9bc595"/>
+  <project name="libARStream2" path="packages/libARStream2" revision="ee14f6c68c7f64f6ec3e51be7f919b5e9de7031d"/>
   <project name="libARUpdater" path="packages/libARUpdater" revision="2b482c260bc8662f05d7dd1cf6fb80f70fa37828"/>
   <project name="libARUtils" path="packages/libARUtils" revision="2d81cf236feca7f769b5e0213fb8378f71e96f8e"/>
   <project name="mavlink.git" path="packages/mavlink" revision="d9034b138d3548b571e98117287f85b14c15a2bc"/>
